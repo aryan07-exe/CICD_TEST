@@ -1,4 +1,4 @@
-name: CI/CD Pipeline - Build, Push & Deploy
+name: CI/CD Pipeline - Build,Push & Deploy
 
 on:
   push:
